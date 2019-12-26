@@ -1,0 +1,22 @@
+{
+  "name": "mynodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.2.2",
+    "muk": "^0.5.3",
+    "node-mysql": "^0.4.2",
+    "should": "^13.2.3",
+    "sleep": "^6.1.0"
+  },
+  "devDependencies": {
+    "mysql": "latest"
+  }
+}
