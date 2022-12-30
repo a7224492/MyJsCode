@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "muk": "^0.5.3",
     "node-mysql": "^0.4.2",
     "should": "^13.2.3",
